@@ -1,0 +1,2 @@
+# Pascal-VOC-2007
+The purpose of this project is applying deep learning algorithm, especially transfer learning that make use of the knowledge gained while solving one problem and applying it to a different but related problem. Usually, transfer learning perform well in image and text cases.  Pascal VOC 2007 (http://host.robots.ox.ac.uk/pascal/VOC/voc2007/) is a collection of images and has tricky dataset, which each class may contains more than one label. It also has different image size.
